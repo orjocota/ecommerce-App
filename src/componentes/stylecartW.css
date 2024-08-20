@@ -1,0 +1,23 @@
+.cart{
+    position: relative;
+    cursor: pointer; 
+}
+.cart box-icon{
+    width: 45px;
+    height: 45px;
+}
+.cart span{
+    position: absolute;
+    top: -1rem;
+    right: -2rem;
+    width: 2rem;
+    height: 2rem;
+    background-color: #08a05ca4;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+}

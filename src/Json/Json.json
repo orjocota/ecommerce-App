@@ -1,0 +1,165 @@
+[
+    {
+        
+        "title": "Guacamole Casero",
+        "price": 1405,
+        "image": "../../Imagenes/Producto 1.jpg",
+        "description": "Guacamole Casero disfruta con el Snack de tu preferencia.",
+        "stock": 10,
+        "category": "comidas"
+    },
+    {
+        
+        "title": "Ensalada con Guacamole",
+        "price": 1500,
+        "image": "../../Imagenes/Producto 2.jpg",
+        "description": "Disfruta de una explosión de frescura y sabor con nuestra ensalada con aguacate!",
+        "stock": 10,
+        "category": "comidas"
+    },
+    {
+        
+        "title": "Totopos con Guacamole",
+        "price": 2205,
+        "image": "../../Imagenes/Producto 3.jpg",
+        "description": "Prepárate para un festín de sabor con nuestros totopos con guacamole!",
+        "stock": 10,
+        "category": "comidas"
+    },
+    {
+        
+        "title": "Hambuergesa con Guacamole",
+        "price": 1904,
+        "image": "../../Imagenes/Producto 4.jpg",
+        "description": "Conoce nuestra nueva hamburguesa con guacamole! En SABORALMA.",
+        "stock": 10,
+        "category": "comidas"
+    },
+    {
+        
+        "title": "Creeps con Guacamole",
+        "price": 1705,
+        "image": "../../Imagenes/Producto 5.jpg",
+        "description": "Déjate tentar por una experiencia única con nuestros crepes rellenos de guacamole!",
+        "stock": 10,
+        "category": "comidas"
+    },
+    {
+        
+        "title": "Empanadas con Guacamole",
+        "price": 2505,
+        "image": "../../Imagenes/Producto 6.jpg",
+        "description": "Descubre una nueva dimensión de sabor con nuestras empanadas rellenas de guacamole!",
+        "stock": 10,
+        "category": "comidas"
+    },
+    {
+        
+        "title": "Papas Chorriadas con Guacamole",
+        "price": 2200,
+        "image": "../../Imagenes/Producto 7.jpg",
+        "description": "Prepárate para un festín de sabores auténticos con nuestras papas chorriadas con guacamole!",
+        "stock": 10,
+        "category": "comidas"
+    },
+    {
+        
+        "title": "Burrito con Guacamole",
+        "price": 2000,
+        "image": "../../Imagenes/Producto 8.jpg",
+        "description": "Haz espacio para la delicia con nuestras papas burrito con guacamole! En SABORALMA",
+        "stock": 10,
+        "category": "comidas"
+    },
+    {
+        
+        "title": "Enchilada con Guacamole",
+        "price": 1200,
+        "image": "../../Imagenes/Producto 9.jpg",
+        "description": "Deleita tu paladar con nuestras deliciosas enchiladas con guacamole!",
+        "stock": 10,
+        "category": "comidas"
+    },
+    {
+        
+        "title": "Rollos con Guacamole",
+        "price": 2500,
+        "image": "../../Imagenes/Producto 10.jpg",
+        "description": "Experimenta un festín de sabores con nuestros deliciosos rollos con guacamole!",
+        "stock": 10,
+        "category": "comidas"
+    },
+    {
+        
+        "title": "Lasagna y Guacamole",
+        "price": 1800,
+        "image": "../../Imagenes/Producto 11.jpg",
+        "description": "Prepárate para una experiencia culinaria única con nuestra lasaña especial acompañada de guacamole!",
+        "stock": 10,
+        "category": "comidas"
+    },
+    {
+        
+        "title": "Quesadilla con Guacamole",
+        "price": 1700,
+        "image": "../../Imagenes/Producto 12.jpg",
+        "description": "aborea la auténtica cocina mexicana con nuestras deliciosas quesadillas acompañadas de guacamole!",
+        "stock": 10,
+        "category": "comidas"
+    },
+    {
+        
+        "title": "Coca-Cola Light",
+        "price": 1300,
+        "image": "../../Imagenes/Coca-Cola-Light.jpg",
+        "description": "Deliciosa gaseosa sin azucar",
+        "stock": 10,
+        "category": "bebidas"
+    },
+    {
+        
+        "title": "Coca-Cola Light en Lata",
+        "price": 1400,
+        "image": "../../Imagenes/CocaCola-Lata-Light.jpg",
+        "description": "Deliciosa gaseosa sin azucar",
+        "stock": 10,
+        "category": "bebidas"
+    },
+    {
+        
+        "title": "Coca-Cola Normal 600 ml",
+        "price": 1400,
+        "image": "../../Imagenes/Coca-Cola.jpg",
+        "description": "Deliciosa gaseosa Refrescante",
+        "stock": 10,
+        "category": "bebidas"
+    },
+    {
+        
+        "title": "Coca-Cola Normal en Lata 330 ml",
+        "price": 1400,
+        "image": "../../Imagenes/Coca-cola-lata.png",
+        "description": "Deliciosa gaseosa Refrescante",
+        "stock": 10,
+        "category": "bebidas"
+    },
+    {
+        
+        "title": "soda Schweppes",
+        "price": 1400,
+        "image": "../../Imagenes/Soda.jpg",
+        "description": "Deliciosa Soda Refrescante",
+        "stock": 10,
+        "category": "bebidas"
+    },
+    {
+        
+        "title": "Manzana",
+        "price": 1400,
+        "image": "../../Imagenes/Manzana.jpg",
+        "description": "Deliciosa Bebida Refrescante",
+        "stock": 10,
+        "category": "bebidas"
+    }
+
+]

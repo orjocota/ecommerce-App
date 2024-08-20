@@ -1,0 +1,17 @@
+.banner{
+    background-image: linear-gradient(to right,rgb(0 0 0/.6),rgb(0 0 0/.6)),url(../../../Imagenes/Banner-principal.jpg) ;
+    position: relative;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: calc(50vh - 10px);
+    border-radius: 10px;
+}
+.text_banner{
+    color: azure;
+}
+.text_banner p{
+    font-weight: 700;
+    font-size: 20px;
+}
