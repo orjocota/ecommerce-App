@@ -45,7 +45,7 @@ const Checkin = () => {
           <h2 className="title">CHECKOUT</h2>
           <div className="row aling-middle text-center">
             <div className="col">
-              <p><img src="../Imagenes/bag.svg" width={100} /></p>
+              <p><img src="../../dist/assets/Imagenes/bag.svg" width={100} /></p>
               <h2> TU Carrito esta Vacio</h2>
               <p className="fs-5 fw-bold">Añade productos al carrito para ver su contenido.</p>
               <Link to="/" className="btn btn-success w-50 fs-5">Ir a la Pagina Principal</Link>

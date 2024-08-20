@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-// import Productos from "../../Json/Json.json";
 import "./styleitemlistcontainer.css";
 import ItemList from "./ItemList";
 import { useParams } from "react-router-dom";

@@ -14,7 +14,7 @@ const Cart = () => {
           <div className="row align-middle text-center">
             <div className="col">
               <p>
-                <img src="../Imagenes/bag.svg" width={100} />
+                <img src="../../dist/assets/Imagenes/bag.svg" width={100} />
               </p>
               <h2> TU Carrito esta Vacio</h2>
               <p className="fs-5 fw-bold">
@@ -55,7 +55,7 @@ const Cart = () => {
                     }}
                   >
                     <img
-                      src="../Imagenes/Trash.svg"
+                      src="../../dist/assets/Imagenes/Trash.svg"
                       alt="Elimnar Productos"
                       width={24}
                     />{" "}
@@ -104,7 +104,7 @@ const Cart = () => {
                     <td className="text-center align-content-center fw-bold">
                       <button className="btn btn-light">
                         <img
-                          src="../Imagenes/Trash.svg"
+                          src="../../dist/assets/Imagenes/Trash.svg"
                           alt="Elimnar Productos"
                           width={24}
                           onClick={() => {

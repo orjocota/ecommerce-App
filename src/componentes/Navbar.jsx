@@ -1,5 +1,5 @@
 
-import LOGO from "../Imagenes/LOGO.png";
+import LOGO from "../../dist/assets/Imagenes/LOGO.png";
 import CartWidget from "./CartWidget";
 import {Link, NavLink} from "react-router-dom"
 
