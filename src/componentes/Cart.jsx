@@ -2,6 +2,8 @@ import "../index.css";
 import { useContext } from "react";
 import { CarContext } from "./CartContex";
 import { Link } from "react-router-dom";
+import bag from "../imagenes/bag.svg";
+import trash from "../imagenes/trash.svg";
 
 const Cart = () => {
   const { cart, removeItem, totalItems, clear, sumaProductos } = useContext(CarContext);
@@ -14,7 +16,7 @@ const Cart = () => {
           <div className="row align-middle text-center">
             <div className="col">
               <p>
-                <img src="../../dist/assets/bag.svg" width={100} />
+                <img src={bag} width={100} />
               </p>
               <h2> TU Carrito esta Vacio</h2>
               <p className="fs-5 fw-bold">
@@ -55,7 +57,7 @@ const Cart = () => {
                     }}
                   >
                     <img
-                      src="../../dist/assets/trash.svg"
+                      src={trash}
                       alt="Elimnar Productos"
                       width={24}
                     />{" "}
@@ -104,7 +106,7 @@ const Cart = () => {
                     <td className="text-center align-content-center fw-bold">
                       <button className="btn btn-light">
                         <img
-                          src="../../dist/assets/trash.svg"
+                          src={trash}
                           alt="Elimnar Productos"
                           width={24}
                           onClick={() => {

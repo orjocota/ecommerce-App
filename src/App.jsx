@@ -14,7 +14,6 @@ function App() {
     <CarContextProvider>
     <BrowserRouter>
         <NavBar />
-        <Inicio/>
         <Routes>
           <Route path={"/"} element={<Inicio />} />
           <Route path={"/Inicio"} element={<Inicio />} />
