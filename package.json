@@ -1,7 +1,6 @@
 {
   "name": "curso-react",
   "private": true,
-  "homepage": "https://orjocota.github.io/ecommerce-App",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
